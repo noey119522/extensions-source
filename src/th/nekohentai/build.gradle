@@ -1,1 +1,9 @@
+ext {
+    extName = 'Neko Hentai'
+    pkgNameSuffix = 'th.nekohentai'
+    extClass = '.NekoHentai'
+    extVersionCode = 1
+    isNsfw = true
+}
 
+apply from: "$rootDir/common.gradle"
