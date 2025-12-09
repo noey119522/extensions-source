@@ -1,6 +1,5 @@
 ext {
     extName = 'Neko Hentai'
-    pkgNameSuffix = 'th.nekohentai'
     extClass = '.NekoHentai'
     extVersionCode = 1
     isNsfw = true
