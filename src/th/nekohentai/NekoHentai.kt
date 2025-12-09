@@ -1,5 +1,5 @@
 package eu.kanade.tachiyomi.extension.th.nekohentai
-
+// ... ส่วนอื่นๆ เหมือนเดิม ...
 import eu.kanade.tachiyomi.network.GET
 import eu.kanade.tachiyomi.source.model.FilterList
 import eu.kanade.tachiyomi.source.model.Page
